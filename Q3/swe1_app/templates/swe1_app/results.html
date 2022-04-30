@@ -1,0 +1,13 @@
+{% extends "swe1_app/layout.html" %} 
+{% load static %} 
+{% block title %}Results{% endblock %} 
+{%block body %}
+<div class="card" style="width: 18rem">
+  <div class="card-header"><strong>Poll Results</strong></div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">{{ poll.option_one }} &mdash; <strong>{{ poll.option_one_count }}</strong></li>
+    <li class="list-group-item">{{ poll.option_two }} &mdash; <strong>{{ poll.option_two_count }}</strong></li>
+    <li class="list-group-item">{{ poll.option_three }} &mdash; <strong>{{ poll.option_three_count }}</strong></li>
+  </ul>
+</div>
+{% endblock %}

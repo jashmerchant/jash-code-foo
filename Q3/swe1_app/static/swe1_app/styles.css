@@ -1,0 +1,10 @@
+.card {
+  margin: 0 auto; 
+  float: none;
+  margin-top: 20px; 
+  background-color: rgba(245, 245, 220, .7) !important;
+}
+
+.card-body {
+  background-color: white !important;
+}

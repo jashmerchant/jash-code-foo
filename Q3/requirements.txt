@@ -1,0 +1,9 @@
+Django
+gunicorn
+whitenoise
+django-heroku
+dj-database-url
+black
+flake8
+coverage
+coveralls
