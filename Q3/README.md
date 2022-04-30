@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/jashmerchant/jash-code-foo/badge.svg?branch=main)](https://coveralls.io/github/jashmerchant/jash-code-foo?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/jashmerchant/swe1-app/badge.svg?branch=main)](https://coveralls.io/github/jashmerchant/swe1-app?branch=main)
 
 #### Installation
 
