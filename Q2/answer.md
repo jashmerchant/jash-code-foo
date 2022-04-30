@@ -10,6 +10,5 @@ Assuming a person's daily electricity consumption is [12.1kWh](https://css.umich
 For the Distinct buildings category, if we assume `1000kWh/per building`, then `1000*5 = 5000kWh/day` would be the total energy we require for all the distinctive buildings in total.<br/> 
 So, the total power required by Jubily life village each day would be **`1283 + 5000 = 6283 kWh`**
 
-**From aforementioned points**
-Supposing each Voltorb could product `10kWh` energy each day, we would required **`6283/10 ~ 630 Voltorbs`**. Thus, we can create two batches of `315 Voltorbs` each which can work alternatively to supply power to whole Jubilife Village.
+**From aforementioned points**, say each Voltorb could product `10kWh` energy each day, we would required **`6283/10 ~ 630 Voltorbs`**. Thus, we can create two batches of `315 Voltorbs` each which can work alternatively to supply power to whole Jubilife Village.
 
